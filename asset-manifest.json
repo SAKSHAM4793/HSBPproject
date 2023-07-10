@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HSBPproject/static/css/main.608c481d.css",
-    "main.js": "/HSBPproject/static/js/main.5d6f90e3.js",
+    "main.js": "/HSBPproject/static/js/main.8c3b916c.js",
     "index.html": "/HSBPproject/index.html",
     "main.608c481d.css.map": "/HSBPproject/static/css/main.608c481d.css.map",
-    "main.5d6f90e3.js.map": "/HSBPproject/static/js/main.5d6f90e3.js.map"
+    "main.8c3b916c.js.map": "/HSBPproject/static/js/main.8c3b916c.js.map"
   },
   "entrypoints": [
     "static/css/main.608c481d.css",
-    "static/js/main.5d6f90e3.js"
+    "static/js/main.8c3b916c.js"
   ]
 }
