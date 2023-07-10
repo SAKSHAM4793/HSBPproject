@@ -1,0 +1,348 @@
+* {}
+
+.container {
+    margin: 0 5vw 0 5vw;
+}
+
+.Packages {
+    display: flex;
+    border-radius: 2vw
+}
+.Reciption-c>p{
+    padding-left: 77vw;
+    color: white;
+    font-size: 2vw;
+    margin-top: 1vw;
+}
+
+.text {
+    background: url('https://media.discordapp.net/attachments/1121751668304920610/1123573202988314634/Image50.png');
+    width: 33.3%;
+    height:7vw;
+    background-repeat: no-repeat;
+
+}
+
+.Packages>h1 {
+    text-align: center;
+    padding-top: 3vw;
+    font-size: 2.8vw;
+}
+
+.text2 {
+    background-color: #8b2e5d3d;
+  
+}
+
+.text3 {
+    background-color: #8B2E5D;
+    opacity: 0.9;
+    border-radius: 0 25px 25px 0;
+    
+}
+
+.Reciption-c {
+    height: 54vw;
+    background: url(https://media.discordapp.net/attachments/1121751668304920610/1123573249004015687/shutterstock_1931237306_Converted-01.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-color: white;
+    background-size: 19vw 8vw;
+    background-position-y: -1px;
+    padding-top: 1.5vw;
+}
+
+.Reciption {
+    height: 53vw;
+    border-radius: 2vw;
+    display: flex;
+    background-color: #e6870b40;
+    margin-top: -5.3vw;
+
+
+}
+
+.r-left {
+    width: 50%;
+    /* background: url('https://media.discordapp.net/attachments/1121751668304920610/1123573203504214057/Mask_Group_81.png?width=459&height=590'); */
+    height: 100px;
+    padding: 4vw;
+    background-repeat: no-repeat;
+}
+
+.r-left>img {
+    width: 100%;
+    height: 45vw;
+}
+
+.r-right {
+    padding-right: 33px;
+    width: 50%;
+}
+
+.r-right>hr {
+    width: 41vw;
+}
+
+.r-right>p>a {
+    color: rgba(0, 0, 255, 0.782);
+}
+
+.r-box {
+    width: 45vw;
+    background-color: #8B2E5D;
+    height: 21vw;
+    border-radius: 20px;
+    display: flex;
+    color: white;
+}
+
+.r-box-1 {
+    width: 60%;
+    /* float: left; */
+    font-size: 1.5vw;
+    margin-left: 4vw;
+    margin-top: 0.7vw;
+}
+
+.r-box-2 {
+    width: 40%;
+    font-size: 1.5vw;
+    font-size: 1.5vw;
+
+
+}
+
+.r-right>h2 {
+    font-size: 2.9vw;
+    margin-top: -6px;
+}
+
+.r-right>h1 {
+    font-size: 3.6vw;
+    margin-top: 2.8vw;
+    color: #8B2E5D;
+}
+
+.r-right>p {
+    font-size: 1.5vw;
+    margin-top: -13px;
+}
+
+.Prise {
+    display: flex;
+    width: auto;
+}
+
+.Button {
+    margin-left: 17vw;
+    height: 3.7vw;
+    width: 15vw;
+    font-size: 1.5vw;
+    border-radius: 1vw;
+    background-color: #8B2E5D;
+    color: white;
+    margin-top: 2vw;
+}
+
+.prise-text {
+    font-size: 1.7vw;
+    padding-top: 1.5vw;
+}
+
+.Product ,.product2{
+    height: 28vw;
+    border-radius: 2vw;
+    display: flex;
+    background-color: #e6870b40;
+    margin-top: 3vw;
+}
+.Product-left{
+    width: 50%;
+    margin: 3vw;
+    background: white;
+    border-radius: 2vw;
+    padding: 2vw;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.Product-right{
+    width: 50%;
+    margin:3vw 3vw 3vw 0;
+    background: white;
+    border-radius: 2vw;
+    padding: 2vw;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.Product-right>h2,.Product-left>h2{
+    color: #8B2E5D;
+    font-size: 2.8vw;
+    margin-top: -4px;
+}
+
+.Product-right>p,.Product-left>p{
+    font-size: 1.7vw;
+    line-height: 1vw;
+}
+.Product-l1{
+    width: 100%;
+    margin:3vw;
+    background: white;
+    border-radius: 2vw;
+    padding: 2vw; 
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.Product-l1>h2{
+    color: #8B2E5D;
+    font-size: 2.4vw;
+    margin-top: -4px;
+}
+
+.Product-l1>p{
+    font-size: 1.7vw;
+    line-height: 1vw;
+}
+
+.product3{
+    height: 28vw;
+    border-radius: 2vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    background-color:#d4c9bce8;
+    margin-top: 3vw;
+}
+.product3>h2{
+    color: #8B2E5D;
+    font-size: 2.3vw;
+    padding: 3vw 3vw 0;
+}
+.product-img{
+    display: flex;
+}
+.product-img>img{
+    height: 16vw;
+    width: 16vw;
+    padding: 2vw;
+}
+
+.Question{
+    height: 39.5vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 3vw;  
+}
+
+.Question1{
+    display: flex;
+}
+.Question>h2{
+    padding: 2vw 0 0 4vw;
+    color: #8B2E5D;
+    font-size: 2.3vw;
+}
+.Question>p{
+    padding: 0 0 0 4vw;
+    font-size: 1.5vw;
+    margin-top: -1vw;
+}
+.text-b{
+    color: #0000008a;
+}
+
+
+.Question-left{
+    width: 42%;
+    height: 21.5vw;
+    border: solid rgba(51, 50, 50, 0.593) 1px;
+    border-radius: 1vw;
+    position: absolute;
+    margin: 2.5vw 0 0 4vw;
+    background-color: antiquewhite;
+
+}
+
+.Question-left>p{
+    font-size: 1.5vw;
+    margin: 1vw 0 0.5vw 2vw;
+}
+.img1-left{
+    width: 2vw;
+    height: 2vw;
+}
+
+.Question-right{
+    width: 45%;
+    height: 26vw;
+    border: solid rgba(51, 50, 50, 0.593) 1px;
+    margin-left: 39vw;
+    padding: 2vw 0 0 8.5vw;
+    border-radius: 1vw;
+    background-color: antiquewhite;
+}
+.Question-right>h2{
+    font-size: 1.5vw;
+}
+.Question-right>p{
+    font-size: 1.2vw;
+    height: 23vw;
+    margin-right: 5vw;
+}
+
+.img-left{
+    float: right;
+    width: 1vw;
+    margin-right: 1vw;
+}
+.Beauticians{
+    height: 41vw;
+ 
+   
+}
+.Card{
+    width: 21vw;
+    height: 31.5vw;
+    margin-left: 1.5vw;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 1.65vw;
+    font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+
+
+}
+.cards{
+    display: flex;
+    margin-top: 2vw;
+}
+
+.Beauticians>h1{
+    color: #8B2E5D;
+    margin: 5vw 0 0 2vw;
+    font-size: 3vw;
+    
+}
+.Card>img{
+    width: 21vw;
+    height: 22vw;
+}
+.Card>p,.Card>h6,.Card>h2{
+    text-align: center;
+    margin-top: -0.8vw;
+
+}
+
+.Card>h2{
+    color: #8B2E5D;
+    font-size: 1.8vw;
+    margin-top: 0.5vw;
+    font-family: initial;  
+
+}
+
+.Card>p{
+    color: #000000b0;
+    font-size: 1.3vw;
+    margin-top: -1vw;
+}
+.Card>h6{
+    
+    font-size: 1vw;
+    color: rgb(75 74 167);
+}
